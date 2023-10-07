@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-1.Mục tiêu: 
+###1.Mục tiêu: 
 + Cung cấp trải nghiệm đặt phòng thuận tiện
 + Cung cấp thông tin chi tiết về các khách sạn
 + Tìm kiếm và so sánh giá cả
@@ -11,7 +11,7 @@ A new Flutter project.
 + Đảm bảo an toàn bảo mật.
 
 
-2.Công nghệ: flutter.
+###2.Công nghệ: flutter.
 
 
 3.Phân công công việc:
