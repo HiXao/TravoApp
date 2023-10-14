@@ -11,6 +11,6 @@ A new Flutter project.
 + Đảm bảo an toàn bảo mật.
 ### 2.Công nghệ: flutter.
 ### 3.Phân công công việc:
-+ Võ Anh Hào: Quản lí dự án
-+ Vũ Bá Khôi: Người phát triển phần mềm(Dev)
-+ Phan Thế Kiệt:Thiết kế đồ họa.
+|Võ Anh Hào| Quản lí dự án|
+| Vũ Bá Khôi| Người phát triển phần mềm(Dev)|
+| Phan Thế Kiệt|Thiết kế đồ họa|
